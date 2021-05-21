@@ -6,8 +6,8 @@ Hi there  I'm Wenushka Mallikarachchi 👋
 Mobile Developer, UI/UX Enthusiast.!!
 </p>
 
-- currently working on Flutter
-- currently learning everything 🧗‍♀️
+- Currently working on Flutter
+- Currently learning everything 🧗‍♀️
 - Life goes on off roads.🚙
   <br>
 
