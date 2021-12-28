@@ -6,7 +6,7 @@ Hi there  I'm Wenushka Mallikarachchi 👋
 UI/UX Developer, UI/UX Enthusiast.!!
 </p>
 
-- Currently working on Flutter
+- Currently working on UI/UX
 - Currently learning everything 🧗‍♀️
 - Life goes on off roads.🚙
   <br>
