@@ -3,7 +3,7 @@ Hi there  I'm Wenushka Mallikarachchi 👋
 </h1>
 
 <p align='center'>
-Mobile Developer, UI/UX Enthusiast.!!
+UI/UX Developer, UI/UX Enthusiast.!!
 </p>
 
 - Currently working on Flutter
